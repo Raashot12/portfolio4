@@ -826,6 +826,13 @@ header a {
   .input-element {
     width: 300px;
   }
+  .last-frontpage-background {
+    background-color: #2dd9d9;
+    height: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 /* MEDIUM  */
 @media screen and (min-width: 768px) and (max-width: 991px) {
